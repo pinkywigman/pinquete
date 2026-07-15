@@ -1,4 +1,4 @@
-🌈 Pinky Learns Quantum
+##🌈 Pinky Learns Quantum
 
 A new modality of learning quantum computing — free, adaptive, and powered by LLMs.
 
